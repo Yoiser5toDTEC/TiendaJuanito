@@ -27,7 +27,7 @@ do
             break;
 
         case 2:
-            Mostrar(Producto, Precio);      //los casos
+            Mostrar(Producto, Precio);      //los casos aqui se llaman a los metodos que estan abajo
             break;
 
         case 3:
