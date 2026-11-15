@@ -4,6 +4,9 @@ Este proyecto consiste en un programa  para gestionar los productos de una tiend
 
 El sistema permite registrar productos y administrar sus precios mediante un menú de opciones.
 
+Para ver  y ejecutar  el codigo entrar a Progam.cs copie el codigo y peguelo en Visual studio, o descargue los archivos metalos en una carpeta e inicicielos
+
+
 ## Tecnologías utilizadas
 
 - C#
