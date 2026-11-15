@@ -95,7 +95,7 @@ static void Mostrar(List<string> Producto, List<double> Precio) //mostrar produc
     {
         for (int i = 0; i < Producto.Count; i++)
         {
-            Console.WriteLine(Producto[i] + " - RD$" + Precio[i]);
+            Console.WriteLine((i + 1) + ". " + Producto[i] + " - RD$" + Precio[i]);
         }
     }
 }
