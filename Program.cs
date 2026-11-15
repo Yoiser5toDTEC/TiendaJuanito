@@ -238,4 +238,4 @@ static void Ordenar(List<string> Producto, List<double> Precio) //ordenar los pr
     {
         Console.WriteLine(p);
     }
-}
+} // ojo en este ordenar ordeno los articulos de forma alfabetica pero no ordeno los precios
