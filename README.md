@@ -15,3 +15,30 @@ Yoiser Cedano
 
 ## Imagenes de ejecucion
 
+## Capturas del programa
+
+## 1 Mostrar 
+![mostrar](juanito/mostrar.png)
+
+## 2 Buscar producto
+![buscar](juanito/buscar.png)
+
+## 3 Eliminar producto
+![eliminar](juanito/eliminar.png)
+
+## 4 Mostrar estadisticas
+![mostrar](juanito/estadisticas.png)
+
+### 5 ordenar
+![ordenar](juanito/ordenar.png)
+
+## 6 Modificar producto
+![modificar](juanito/modificar.png)
+ 
+## 7 Agregar producto 
+![agregar](juanito/agregar.png)
+ 
+
+
+
+
